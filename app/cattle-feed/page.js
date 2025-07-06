@@ -179,7 +179,7 @@ export default function CattleFeed() {
       {/* CTA Section */}
       <section className="py-16 bg-gradient-to-r from-green-600 to-teal-600 text-white">
         <div className="container mx-auto px-4 text-center">
-          <h2 className="text-3xl font-bold mb-4">Ready to Improve Your Cattle's Health?</h2>
+          <h2 className="text-3xl font-bold mb-4">Ready to Improve Your Cattle&apos;s Health?</h2>
           <p className="text-xl mb-8 opacity-90">Contact us today for personalized feed recommendations and pricing</p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <button className="bg-white text-green-600 px-8 py-3 rounded-lg font-semibold hover:bg-gray-100 transition-colors">
