@@ -1,0 +1,7 @@
+{
+  "/cattle-feed/page": "app/cattle-feed/page.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/icon.svg/route": "app/icon.svg/route.js",
+  "/page": "app/page.js",
+  "/poultry-feed/page": "app/poultry-feed/page.js"
+}
